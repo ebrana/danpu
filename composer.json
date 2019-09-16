@@ -1,5 +1,5 @@
 {
-    "name": "rah/danpu",
+    "name": "ebrana/danpu",
     "description": "Zero-dependency MySQL dump library for easily exporting and importing databases",
     "keywords": ["mysql", "sql", "dump", "backup", "restore", "export", "import", "library", "mysqldump", "database", "db"],
     "homepage": "https://github.com/gocom/danpu",
